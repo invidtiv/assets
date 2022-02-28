@@ -1,0 +1,29 @@
+{
+    "name": "Shill",
+    "type": "BEP20",
+    "symbol": "SHILL",
+    "decimals": 18,
+    "website": "https://shillit.app/",
+    "description": "THE ULTIMATE TOKEN VETTING PLATFORM Shillit App is a revolutionary way to find your next 100x gem.",
+    "explorer": "https://bscscan.com/token/0x6c427C94293335cA8D9b12EaD509398762B4D4BD",
+    "status": "active",
+    "id": "0x6c427C94293335cA8D9b12EaD509398762B4D4BD",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ShillitApp"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/shillit-app"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/shillitapp"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/shillit-app/"
+        }
+    ]
+}
